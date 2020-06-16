@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+
+## The function make CacheMatrix and cacheSolve are used for creating a 
+## matrix object and cache its inverse
 
 ## This function is for creating the matrix object
 makeCacheMatrix <- function(x = matrix()) {
