@@ -23,7 +23,6 @@ getInverse = getInverse)
 
 
 ## this function is written to cache the inverse of a matrix
-
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
 
